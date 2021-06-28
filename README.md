@@ -1,6 +1,6 @@
-# Game-Station-Java
+# Game Station Java
 
-Game parlour using java programming language.
+## Game parlour using java programming language.
 
 - PROJECT TITLE: Game Parlour
 - PURPOSE OF PROJECT: Creating game station
